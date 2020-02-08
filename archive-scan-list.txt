@@ -405,3 +405,12 @@ https://archive.org/details/au-netguide-2000-05-loose-ads
 https://archive.org/details/au-netguide-2000-06
 https://archive.org/details/au-netguide-2000-07
 https://archive.org/details/au-netguide-2000-09
+https://archive.org/details/au-netguide-2000-08
+https://archive.org/details/au-netguide-1999-05
+https://archive.org/details/au-netguide-1999-06
+https://archive.org/details/au-netguide-1999-07
+https://archive.org/details/au-netguide-1999-08
+https://archive.org/details/au-netguide-1999-09
+https://archive.org/details/au-netguide-1999-10
+https://archive.org/details/au-netguide-1999-11
+https://archive.org/details/au-netguide-1999-12
